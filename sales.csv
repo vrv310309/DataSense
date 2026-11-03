@@ -1,0 +1,22 @@
+date,region,category,product,units_sold,unit_price,revenue
+2026-01-03,West,Electronics,Wireless Mouse,12,799,9588
+2026-01-05,North,Office,Notebook Set,35,149,5215
+2026-01-07,South,Electronics,USB-C Hub,8,1299,10392
+2026-01-09,East,Home,Desk Lamp,11,899,9889
+2026-01-11,West,Office,Mechanical Pencil,42,59,2478
+2026-01-13,North,Electronics,Keyboard,9,1899,17091
+2026-01-15,South,Home,Storage Box,18,349,6282
+2026-01-17,East,Electronics,Webcam,6,2499,14994
+2026-01-19,West,Home,Water Bottle,24,299,7176
+2026-01-21,North,Office,Planner,16,399,6384
+2026-01-23,South,Electronics,Wireless Mouse,14,799,11186
+2026-01-25,East,Office,Notebook Set,28,149,4172
+2026-01-27,West,Electronics,USB-C Hub,7,1299,9093
+2026-01-29,North,Home,Desk Lamp,13,899,11687
+2026-02-01,South,Office,Mechanical Pencil,50,59,2950
+2026-02-03,East,Electronics,Keyboard,10,1899,18990
+2026-02-05,West,Home,Storage Box,21,349,7329
+2026-02-07,North,Electronics,Webcam,5,2499,12495
+2026-02-09,South,Home,Water Bottle,19,299,5681
+2026-02-11,East,Office,Planner,22,399,8778
+2026-02-13,West,Electronics,Wireless Mouse,15,799,11985
